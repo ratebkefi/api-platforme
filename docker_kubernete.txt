@@ -74,7 +74,7 @@ Preferred methode update deployement
 3- update your code
 4- docker build -t rateb/posts
 5- docker push rateb/post
-6- kubectl rollout restart deployement post-depl
+6- kubectl rollout restart deployment post-depl
 
 Create NoteportService
 
